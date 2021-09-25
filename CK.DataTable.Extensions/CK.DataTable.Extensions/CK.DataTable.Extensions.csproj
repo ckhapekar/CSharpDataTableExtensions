@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Chandrahas Khapekar</Authors>
+    <Company>Happy Coding</Company>
+    <Description>List of helper methods we need when working with DataTable</Description>
+    <Product>DataTable Extension Methods</Product>
+    <Version>1.1.0</Version>
+  </PropertyGroup>
+
+</Project>
